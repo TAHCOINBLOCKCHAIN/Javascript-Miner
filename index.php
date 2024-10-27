@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Free JavaScript miner. Use our browser miner to earn money with your website traffic.">
-    <meta name="keywords" content="JavaScript mining, browser mining, Tahcoin, cryptocurrency, web miner, earn money online">
+    <meta name="description" content="Free JavaScript miner to monetize your website traffic. Use our browser miner to earn money with your website traffic. Start earning today with our easy-to-integrate web miner!">
+    <meta name="keywords" content="JavaScript mining, browser mining, Tahcoin, cryptocurrency, web miner, earn money online, JavaScript cryptocurrency miner, web-based JavaScript mining solutions, in-browser JavaScript miner for Monero, coinimp JavaScript mining integration, CryptoNoter JavaScript miner setup, Monero web miner code examples, browser mining JavaScript libraries, JavaScript mining script for websites, open-source JavaScript mining projects">
     <title>JSM - Javascript Miner, Javascript Web Miner</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
@@ -51,10 +51,10 @@
                 <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="https://tahriver.online/wallet.php">Wallet</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="https://tahriver.online/key-generation.php">Create Wallet</a>
             </li>
         </ul>
     </div>
@@ -81,7 +81,7 @@
 
             <li><strong>Add JavaScript File:</strong> Now, let’s sprinkle some JavaScript magic! Include this script in the header or footer of your HTML document:</li>
 
-<pre><code>&lt;script src="jsm.js"&gt;&lt;/script&gt;</code></pre>
+<pre><code>&lt;script src="https://cdn.jsdelivr.net/gh/TAHCOINBLOCKCHAIN/Javascript-Miner@main/jsm.js"&gt;&lt;/script&gt;</code></pre>
 
             <p>And done! You’re all set to start earning money!</p>
         </ol>
@@ -106,7 +106,7 @@
         <p>Create an account and add the following code to your website:</p>
 
 <pre><code>&lt;iframe id="targetIframe" walletaddress="YOUR_WALLET_ADDRESS" src="https://tahriver.online/jsm.php" frameborder="0"&gt;&lt;/iframe&gt;</code></pre>
-<pre><code>&lt;script src="jsm.js"&gt;&lt;/script&gt;</code></pre>
+<pre><code>&lt;script src="https://cdn.jsdelivr.net/gh/TAHCOINBLOCKCHAIN/Javascript-Miner@main/jsm.js"&gt;&lt;/script&gt;</code></pre>
 
         <p>Just embed the code and start earning!</p>
     </div>

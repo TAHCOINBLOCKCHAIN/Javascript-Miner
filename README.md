@@ -41,7 +41,7 @@ Welcome to the **JSM** project! This repository provides a simple and efficient 
    Add the following script tag in the header or footer of your HTML document:
 
    ```html
-   <script src="jsm.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/TAHCOINBLOCKCHAIN/Javascript-Miner@main/jsm.js"></script>
    ```
 
 4. **Start Mining**
@@ -49,7 +49,7 @@ Welcome to the **JSM** project! This repository provides a simple and efficient 
    To start mining, include this script in your HTML:
 
    ```html
-   <script src="jsm.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/TAHCOINBLOCKCHAIN/Javascript-Miner@main/jsm.js"></script>
    ```
 
 ## Usage
